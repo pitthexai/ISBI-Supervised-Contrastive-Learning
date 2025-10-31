@@ -23,10 +23,10 @@
 
 ### Directory Descriptions
 + <p align="justify"><strong>Code:</strong> This directory Contains all Python source codes for data preprocessing, model training, and evaluation (YOLOv11 detection, ASCon training, Grad-CAM++ visualization).</p>
-+ <p align="justify"><strong>Dataset/:</strong> This directory references the <a href="https://nda.nih.gov/oai" target="_blank">Osteoarthritis Initiative (OAI)</a> dataset used in this study. Due to data usage restrictions, raw radiographs and demographic data are not shared in this repository. Instructions for accessing the OAI dataset are provided within this directory. </p>
-+ <p align="justify"><strong>Figures/:</strong> This directory includes all figures and visualizations generated for the study, including the computational pipeline, and Grad-CAM++ heatmaps illustrating anatomical explainability.</p>
-+ <p align="justify"><strong>Models/:</strong> This directory includes all AI models developed for this study.</p>
-+ <p align="justify"><strong> Presentation/:</strong> This directory contains presentation slides prepared for the ISBI 2026 presentation.</p>
++ <p align="justify"><strong>Dataset:</strong> This directory references the <a href="https://nda.nih.gov/oai" target="_blank">Osteoarthritis Initiative (OAI)</a> dataset used in this study. Due to data usage restrictions, raw radiographs and demographic data are not shared in this repository. Instructions for accessing the OAI dataset are provided within this directory. </p>
++ <p align="justify"><strong>Figures:</strong> This directory includes all figures and visualizations generated for the study, including the computational pipeline, and Grad-CAM++ heatmaps illustrating anatomical explainability.</p>
++ <p align="justify"><strong>Models:</strong> This directory includes all AI models developed for this study.</p>
++ <p align="justify"><strong> Presentation:</strong> This directory contains presentation slides prepared for the ISBI 2026 presentation.</p>
 
 
 
