@@ -1,4 +1,4 @@
-# ISBI-Supervised-Contrastive-Learning
+# XAS-SupCon-KneeOA-classification
 
 
 
