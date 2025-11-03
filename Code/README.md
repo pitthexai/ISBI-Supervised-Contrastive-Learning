@@ -1,10 +1,3 @@
-# Knee X-ray Analysis Repository
-
-This repository contains all source code for knee X-ray analysis, including automatic region detection, image preprocessing, contrastive representation learning, and model visualization.  
-The implementation combines **YOLOv11** for knee ROI detection and multiple contrastive learning frameworks (**SupCon**, **SimCLR**, **XAS-SupCon**) for model training and evaluation.
-
----
-
 ## Folder Overview
 
 **YOLOv11/**  
