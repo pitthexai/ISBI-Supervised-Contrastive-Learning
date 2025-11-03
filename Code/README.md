@@ -1,12 +1,12 @@
 ## Folder Overview
 
-**YOLOv11/**  
+**`YOLOv11/`**  
 Image preprocessing using YOLOv11 for automatic detection and cropping of knee AP-view regions from full X-ray images.
 
-**resnet_model/**  
+**`resnet_model/`**  
 Implements the ResNet-18 model as the CNN baseline.
 
-**contrastive_learning/**  
+**`contrastive_learning/`**  
 Includes implementations for:  
 - **SupCon:** supervised contrastive learning model.  
 - **SimCLR:** unsupervised contrastive learning baseline.  
@@ -15,7 +15,7 @@ Includes implementations for:
 **`networks/`**  
 Backbone and heads used across the contrastive pipelines.
 
-**grad_cam.ipynb**  
+**`grad_cam.ipynb`**  
 Visualizes model attention maps using Grad-CAM++ for interpretability.
 
 ---
