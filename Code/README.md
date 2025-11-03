@@ -4,13 +4,16 @@
 Image preprocessing using YOLOv11 for automatic detection and cropping of knee AP-view regions from full X-ray images.
 
 **resnet_model/**  
-Implements the ResNet-18 architecture as the baseline convolutional neural network for classification and feature extraction.
+Implements the ResNet-18 model as the CNN baseline.
 
 **contrastive_learning/**  
 Includes implementations for:  
 - **SupCon:** supervised contrastive learning model.  
 - **SimCLR:** unsupervised contrastive learning baseline.  
 - **XAS-SupCon:** explainable age- and sex-aware supervised contrastive learning model.
+
+**networks/resnet_big.py** 
+Backbone and heads used across the contrastive pipelines.
 
 **grad_cam.ipynb**  
 Visualizes model attention maps using Grad-CAM++ for interpretability.
