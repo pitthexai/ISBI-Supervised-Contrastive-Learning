@@ -51,7 +51,7 @@ python main_linear_xas_supcon.py --batch_size 64   --learning_rate 0.005   --siz
 
 ---
 
-### Supervised Contrastive Learning (SupCon)
+### SupCon (Supervised Contrastive Learning)
 
 **Stage 1 – Encoder Training**
 ```bash
