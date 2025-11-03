@@ -12,7 +12,7 @@ Includes implementations for:
 - **SimCLR:** unsupervised contrastive learning baseline.  
 - **XAS-SupCon:** explainable age- and sex-aware supervised contrastive learning model.
 
-**networks/resnet_big.py** 
+**networks/** 
 Backbone and heads used across the contrastive pipelines.
 
 **grad_cam.ipynb**  
