@@ -1,1 +1,28 @@
+Models
+This folder stores trained model artifacts for the project. Files here are binary checkpoints produced during training and used for evaluation or deployment. These files are tracked with Git LFS to keep the repository size small.
 
+Structure
+Models/
+resnet/
+resnet_best.pth
+simclr/
+best_model.pth
+best_classifier.pth
+supcon/
+best_model.pth
+best_classifier.pth
+xas_supcon/
+best_model.pth
+best_classifier.pth
+
+Conventions
+
+best_model.pth: encoder + projection head weights saved after training.
+
+best_classifier.pth: linear classifier trained on frozen features.
+
+resnet_best.pth: baseline ResNet weights for supervised classification.
+
+All files use PyTorch format (.pth).
+
+Large files are stored with Git LFS.
