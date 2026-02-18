@@ -35,7 +35,7 @@
 
 ### The proposed computational pipeline
 
-<p align="center"> <img src="Figures/ISBI_1.png" alt="Explainable Age- and Sex-Aware Contrastive AI Pipeline for Knee Osteoarthritis (ASCon)" width="700"/> </p> <p align="justify"> The proposed <strong>ASCon</strong> (Age- and Sex-Aware Contrastive Learning) framework introduces a multimodal and explainable AI pipeline for automated and equitable knee osteoarthritis (KOA) assessment. The pipeline consists of three main tiers: </p>
+<p align="center"> <img src="Figures/isbi_pipeline.png" alt="Explainable Age- and Sex-Aware Contrastive AI Pipeline for Knee Osteoarthritis (ASCon)" width="700"/> </p> <p align="justify"> The proposed <strong>ASCon</strong> (Age- and Sex-Aware Contrastive Learning) framework introduces a multimodal and explainable AI pipeline for automated and equitable knee osteoarthritis (KOA) assessment. The pipeline consists of three main tiers: </p>
 
 <strong>Tier 1 (Data Preprocessing):</strong> YOLOv11 automatically detects and crops the knee region of interest (ROI) from the OAI dataset, followed by extraction of demographic metadata (age and sex) and KL grades.
 
