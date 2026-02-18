@@ -54,7 +54,7 @@ Together, these components establish a transparent and demographically aware AI 
 ### Publications
 <p align="justify">
 
-Fengyi Gao, Farnaz Rezvani, Michael Kann, Nickolas Littlefield,
+Fengyi Gao, Farnaz Rezvani, Yushui Han, Michael Kann, Nickolas Littlefield,
 Hilal Maradit Kremers, Adolph J. Yates, Johannes F. Plate, and Ahmad P. Tafti.
 <br/>
 <em>Explainable Age- and Sex-Aware Contrastive Artificial Intelligence for Knee Osteoarthritis Classification.</em>
